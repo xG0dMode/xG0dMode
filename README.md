@@ -1,7 +1,16 @@
-- Hi there! My name is xGodMode and I am a Discord Bot Developer and Specialist. 
-- You can check my Discord Shop At: https://discord.gg/kzZgEaJ2rr
+- Hi there! My name is xCat and I am a Discord Bot Developer and Server Creator.
 
-<!---
-xG0dMode/xG0dMode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Here is a list of options you can add to your Unique Bot!
+
+1) Custom Text Embeds
+2) Moderation Commands (ban, kick, etc.)
+3) Advanced Ticket System 
+4) On Duty Script (with logs)
+5) FiveM Server Status
+6) Channel Lock/Unlock System
+7) Support System 
+8) Suggestions System
+9) Custom Buttons Interactions
+10) Other Custom commands. 
+
+- In case you don't have a host I can provide one for you!
