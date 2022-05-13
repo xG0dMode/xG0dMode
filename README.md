@@ -11,6 +11,9 @@
 7) Support System 
 8) Suggestions System
 9) Custom Buttons Interactions
-10) Other Custom commands. 
+10) Warning System
+11) Database Affiliated
+12) Other Custom commands 
+
 
 - In case you don't have a host I can provide one for you!
