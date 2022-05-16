@@ -13,7 +13,8 @@
 9) Custom Buttons Interactions
 10) Warning System
 11) Database Affiliated
-12) Other Custom commands 
+12) Configuration Commands
+13) Other Custom commands 
 
 
 - In case you don't have a host I can provide one for you!
